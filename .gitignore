@@ -3,3 +3,5 @@
 *.webp
 *.jpeg
 *.png
+.DS_Store
+*.pkl
