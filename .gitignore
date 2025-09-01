@@ -5,3 +5,8 @@
 *.png
 .DS_Store
 *.pkl
+*.tar.gz
+*.pth
+./data
+./venv
+./models
