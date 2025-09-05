@@ -10,3 +10,9 @@
 ./data
 ./venv
 ./models
+
+# Ignore all data directories
+data/
+
+# Ignore Jupyter notebook checkpoints
+**/.ipynb_checkpoints/
